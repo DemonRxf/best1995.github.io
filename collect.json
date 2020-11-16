@@ -7,19 +7,42 @@
         {
           "title":"今日热榜",
           "url":"https://tophub.today/",
-          "describe":"各大网站热榜",
+          "describe":"各大网站热榜汇总",
           "img":"https://file.ipadown.com/tophub/assets/images/logo.png"
         }
       ]
     },
     {
-      "name":"搜索引擎",
+      "name":"文件传输",
+      "list":[
+        {
+          "title":"奶牛快传",
+          "url":"https://cowtransfer.com/",
+          "describe":"⽂件传输助⼿，简化操作、提升速度，实现⾼效传输。不限速！！",
+          "img":"https://background.cowtransfer.com/ms-icon-144x144.png"
+        }
+      ]
+    },
+    {
+      "name":"搜索",
       "list":[
         {
           "title":"大力盘搜索",
           "url":"https://www.dalipan.com/",
-          "describe":"以上内容由网络爬虫自动抓取，以非人工方式自动生成",
+          "describe":"内容由网络爬虫自动抓取，以非人工方式自动生成",
           "img":"https://www.dalipan.com/_nuxt/img/dalipan.ac56964.png"
+        },
+        {
+          "title":"库问搜索",
+          "url":"http://www.koovin.com/",
+          "describe":"千万级文献免费下载",
+          "img":"http://www.koovin.com/images/homelogo.png"
+        },
+        {
+          "title":"大数据导航",
+          "url":"http://hao.199it.com/",
+          "describe":"快速找到大数据相关的工具平台",
+          "img":"http://hao.199it.com/style/images/index/39.jpg"
         }
       ]
     },
@@ -31,6 +54,53 @@
           "url":"http://ppt.sotary.com/web/wxapp/index.html",
           "describe":"免费PPT模板，承诺：文件下载永不收费，会员体系永不推出",
           "img":"http://ppt.sotary.com/web/wxapp/v0/img/logo.png"
+        },
+        {
+          "title":"webp2jpg",
+          "url":"https://renzhezhilu.gitee.io/webp2jpg-online/",
+          "describe":"无需上传的图片转换器-简单、隐私、快速",
+          "img":"https://cdn.jsdelivr.net/gh/renzhezhilu/webp2jpg-online/cdn/favicon.ico"
+        },
+        {
+          "title":"稿定抠图",
+          "url":"https://koutu.gaoding.com/",
+          "describe":"在线删除图片背景，稿定抠图。更简单，更准确",
+          "img":"https://st-gdx.dancf.com/gaodingx/452/configs/system/20200624-164807-3f48.png"
+        }
+      ]
+    },
+    {
+      "name":"其他",
+      "list":[
+        {
+          "title":"teamviewer",
+          "url":"https://www.teamviewer.cn/cn/",
+          "describe":"随时随地控制、管理、监控及维修电脑、移动设备、联网机器等",
+          "img":"https://www.teamviewer.cn/wp-content/themes/tv-wordpress-theme/dist/media/favicon.png"
+        },
+        {
+          "title":"lalal.ai",
+          "url":"https://www.lalal.ai/",
+          "describe":"剪辑音频，背景音乐和人声分离",
+          "img":"https://www.lalal.ai/s/img/home/logo_ai.svg"
+        },
+        {
+          "title":"云短信",
+          "url":"https://www.materialtools.com/",
+          "describe":"在线短信接收，可用于注册一些临时用的网站，可以防骚扰",
+          "img":"https://static.pdf-lib.org/sms_resouce/static/favicon.ico"
+        },
+        {
+          "title":"极简壁纸",
+          "url":"https://bz.zzzmh.cn/",
+          "describe":"壁纸质量挺高，电脑壁纸",
+          "img":"https://bz.zzzmh.cn/favicon.ico"
+        },
+        {
+          "title":"程序员装B神器",
+          "url":"https://geektyper.com/",
+          "describe":"花里胡哨",
+          "img":"https://geektyper.com/ASSETS/homepage/img/logo.png"
         }
       ]
     }
