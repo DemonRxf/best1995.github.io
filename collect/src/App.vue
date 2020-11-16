@@ -22,5 +22,6 @@
 }
   .footer{
     text-align: center;
+    padding: 10px 0 20px;
   }
 </style>
