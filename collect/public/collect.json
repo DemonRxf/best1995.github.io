@@ -2,24 +2,61 @@
   "code":200,
   "data":[
     {
-      "name":"热点",
+      "name":"办公",
       "list":[
         {
-          "title":"今日热榜",
-          "url":"https://tophub.today/",
-          "describe":"各大网站热榜汇总",
-          "img":"https://file.ipadown.com/tophub/assets/images/logo.png"
-        }
-      ]
-    },
-    {
-      "name":"文件传输",
-      "list":[
+          "title":"ρρT超级市场",
+          "url":"http://ppt.sotary.com/web/wxapp/index.html",
+          "describe":"免费PPT模板，承诺：文件下载永不收费，会员体系永不推出",
+          "img":"http://ppt.sotary.com/web/wxapp/v0/img/logo.png"
+        },
+        {
+          "title":"pngimg",
+          "url":"http://pngimg.com/",
+          "describe":"免抠PNG图片网站，收藏了近8W的免抠素材，直接下载就可以使用",
+          "img":"http://pngimg.com/distr/img/logo.png"
+        },
+        {
+          "title":"图片尺寸压缩",
+          "url":"https://tinypng.com/",
+          "describe":"压缩图片的，效果还不错",
+          "img":"https://tinypng.com/images/apple-touch-icon.png"
+        },
+        {
+          "title":"webp2jpg",
+          "url":"https://renzhezhilu.gitee.io/webp2jpg-online/",
+          "describe":"无需上传的图片转换器-简单、隐私、快速",
+          "img":"https://cdn.jsdelivr.net/gh/renzhezhilu/webp2jpg-online/cdn/favicon.ico"
+        },
+        {
+          "title":"稿定抠图",
+          "url":"https://koutu.gaoding.com/",
+          "describe":"在线删除图片背景，稿定抠图。更简单，更准确",
+          "img":"https://st-gdx.dancf.com/gaodingx/452/configs/system/20200624-164807-3f48.png"
+        },
+        {
+          "title":"超级PDF",
+          "url":"https://xpdf.net/",
+          "describe":"免费，简单，强大，PDF文件转换成word，PPT，EXCEL、图片等文件",
+          "img":"https://xpdf.net/favicon.ico"
+        },
+        {
+          "title":"地图生成器",
+          "url":"http://datav.aliyun.com/tools/atlas/",
+          "describe":"以下载到各省，各市，各县的svg格式的地图素材，可以单独更改颜色和轮廓",
+          "img":"http://datav.aliyun.com/tools/atlas/imgs/logo.png"
+        },
         {
           "title":"奶牛快传",
           "url":"https://cowtransfer.com/",
-          "describe":"⽂件传输助⼿，简化操作、提升速度，实现⾼效传输。不限速！！",
+          "describe":"件传输助，简化操作、提升速度，实现有效传输。不限速！！",
           "img":"https://background.cowtransfer.com/ms-icon-144x144.png"
+        },
+        {
+          "title":"Fosshub",
+          "url":"https://www.fosshub.com/",
+          "describe":"提供免费开源软件的网站，没有恶意软件，没有捆绑",
+          "img":"https://www.fosshub.com/media/favicon/mstile-70x70.png"
         }
       ]
     },
@@ -43,35 +80,105 @@
           "url":"http://hao.199it.com/",
           "describe":"快速找到大数据相关的工具平台",
           "img":"http://hao.199it.com/style/images/index/39.jpg"
+        },
+        {
+          "title":"搜图导航",
+          "url":"https://www.91sotu.com/",
+          "describe":"专门搜索图片的导航网站，有各种无版权图片素材网站",
+          "img":"https://www.91sotu.com/file/img/favicon.ico"
+        },
+        {
+          "title":"阿猫阿狗导航",
+          "url":"https://dh.woshipm.com/",
+          "describe":"产品汪，运营喵必备",
+          "img":"https://dh.woshipm.com/images/logo.png"
+        },
+        {
+          "title":"虫部落·快搜",
+          "url":"https://search.chongbuluo.com/",
+          "describe":"一个搜索引擎汇集网站，有几十个搜索网站",
+          "img":"https://search.chongbuluo.com/images/logo_search.svg"
+        },
+        {
+          "title":"i排版工具导航",
+          "url":"http://123.ipaiban.com/",
+          "describe":"运营小编可能会用到的一些工具",
+          "img":"http://123.ipaiban.com/images/toollogo_02_01.png"
         }
       ]
     },
     {
-      "name":"办公",
+      "name":"多人协作工具",
       "list":[
         {
-          "title":"ρρT超级市场",
-          "url":"http://ppt.sotary.com/web/wxapp/index.html",
-          "describe":"免费PPT模板，承诺：文件下载永不收费，会员体系永不推出",
-          "img":"http://ppt.sotary.com/web/wxapp/v0/img/logo.png"
+          "title":"石墨文档",
+          "url":"https://shimo.im/",
+          "describe":"多人实时协作的「云端 Office」",
+          "img":"https://assets.smcdn.cn/from_qbox/favicon.ico"
         },
         {
-          "title":"webp2jpg",
-          "url":"https://renzhezhilu.gitee.io/webp2jpg-online/",
-          "describe":"无需上传的图片转换器-简单、隐私、快速",
-          "img":"https://cdn.jsdelivr.net/gh/renzhezhilu/webp2jpg-online/cdn/favicon.ico"
+          "title":"ProcessOn",
+          "url":"https://www.processon.com/",
+          "describe":"免费在线作图、实时协作，支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等",
+          "img":"https://www.processon.com/assets/imgs/logo_small.png"
+        }
+      ]
+    },
+    {
+      "name":"考试/学习",
+      "list":[
+        {
+          "title":"查题吧",
+          "url":"http://www.chatiba.com/",
+          "describe":"免费的搜题查题网站，支持电脑打开查询，也支持手机打开查询",
+          "img":"http://www.chatiba.com/static/image/ctb.png"
         },
         {
-          "title":"稿定抠图",
-          "url":"https://koutu.gaoding.com/",
-          "describe":"在线删除图片背景，稿定抠图。更简单，更准确",
-          "img":"https://st-gdx.dancf.com/gaodingx/452/configs/system/20200624-164807-3f48.png"
+          "title":"大学资源网",
+          "url":"http://www.dxzy163.com/",
+          "describe":"大学资源网的大学课程内容十分丰富，视频课程都是系统的、免费的",
+          "img":"http://www.dxzy163.com/template/default/images/logo.png"
+        },
+        {
+          "title":"问答库",
+          "url":"https://www.asklib.com/",
+          "describe":"适合需要考证的小伙伴，进行资格证考试测评，进行试题问答查看参考答案",
+          "img":"https://assets.asklib.com/asset/pc/images/logo_w.svg"
+        }
+      ]
+    },
+    {
+      "name":"热点",
+      "list":[
+        {
+          "title":"今日热榜",
+          "url":"https://tophub.today/",
+          "describe":"各大网站热榜汇总",
+          "img":"https://file.ipadown.com/tophub/assets/images/logo.png"
         }
       ]
     },
     {
       "name":"其他",
       "list":[
+        {
+          "title":"美寄词云",
+          "url":"https://www.moage.cn/",
+          "describe":"一个在线的艺术字、文字标签云、图案特效生成工具",
+          "img":"https://www.moage.cn/static/web/imgs/apple-touch-icon.png"
+        },
+        {
+          "title":"多邻国",
+          "url":"http://www.duolingo.cn/",
+          "describe":"学习外语，寓教于乐，多语言学习网站",
+          "img":"http://d35aaqx5ub95lt.cloudfront.net/favicon.ico"
+        },
+        {
+          "title":"医学微视",
+          "url":"https://www.mvyxws.com/",
+          "describe":"一个以视频的方式科普医学知识的网站。由中国医学科学院健康科普中心监制而实施建立",
+          "img":"https://www.mvyxws.com/images/logo_01.png"
+        },
         {
           "title":"teamviewer",
           "url":"https://www.teamviewer.cn/cn/",

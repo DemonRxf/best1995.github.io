@@ -1,14 +1,11 @@
 <template>
   <div class="content">
-      <div>
-
-      </div>
       <div class="column" v-for="(item,index) in list" :key="index">
           <span class="title"><Icon class="icon" type="ios-school-outline" />{{ item.name }}</span>
           <ul class="list">
               <li v-for="(it,i) in item.list" :key="i" @click="loadFun(it.url)">
                   <div class="list-top">
-                      <img class="list-logo" :src="it.img">
+                      <div class="list-logo"  :style="{backgroundImage:'url('+it.img+')'}"></div>
                       <span class="list-title">{{ it.title }}</span>
                   </div>
                   <div class="list-content">
@@ -17,6 +14,7 @@
               </li>
           </ul>
       </div>
+      <BackTop :bottom="100" :right="10"></BackTop>
   </div>
 </template>
 
@@ -33,7 +31,6 @@ export default {
         axios.get('./collect.json').then(res =>{
             const { data } = res.data;
             this.list = data;
-            console.log(this.list)
         })
     },
     methods:{
@@ -83,6 +80,10 @@ export default {
                             margin-right: 5px;
                             border-radius: 50%;
                             box-shadow: 0 0 5px rgba(0,0,0,0.1);
+                            background-size: cover;
+                            background-repeat: no-repeat;
+                            background-color: #fefefe;
+                            background-position: center;
                         }
                         .list-title{
                             font-weight: 600;
