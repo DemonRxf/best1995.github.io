@@ -26,7 +26,7 @@
   .footer{
     background: #000;
     text-align: center;
-    padding: 20px 0;
+    padding: 20px 10px;
     display: flex;
     flex-direction: column;
     font-size: 13px;

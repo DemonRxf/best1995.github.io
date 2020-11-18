@@ -43,12 +43,16 @@ export default {
 
 <style lang="scss">
     .content{
-        padding: 20px 10px;
+        padding: 10px 0 20px;
+        background: #F7F8FA;
         .column{
-            margin-bottom: 30px;
+            margin-top: 20px;
+            padding: 20px 4px;
+            background: #fff;
             .title{
                 display: block;
-                font-size: 18px;
+                font-size: 16px;
+                font-weight: 500;
                 color: #333;
                 margin: 0 10px 20px;
                 .icon{
@@ -60,14 +64,15 @@ export default {
                 flex-direction: row;
                 flex-wrap: wrap;
                 li{
-                    width: 180px;
-                    height: 130px;
+                    width: 2.9rem;
+                    min-height: 2.3rem;
+                    flex-shrink: 0;
                     background: #f9f9f9;
-                    margin-left: 10px;
-                    margin-bottom: 10px;
+                    margin-left: .15rem;
+                    margin-bottom: .15rem;
                     display: flex;
                     flex-direction: column;
-                    border-radius: 10px;
+                    border-radius: 12px;
                     padding: 15px;
                     box-sizing: border-box;
                     .list-top{
@@ -96,6 +101,7 @@ export default {
                         -webkit-line-clamp: 3;
                         -webkit-box-orient: vertical;
                         margin-top: 10px;
+                        text-align: justify;
                     }
                 }
             }

@@ -2,7 +2,7 @@
   "code":200,
   "data":[
     {
-      "name":"搜索导航（对应领域比较全，有针对性的搜索导航）",
+      "name":"搜索导航",
       "list":[
         {
           "title":"考拉新媒体导航",
@@ -108,7 +108,7 @@
         {
           "title":"超级PDF",
           "url":"https://xpdf.net/",
-          "describe":"免费，简单，强大，PDF文件转换成word，PPT，EXCEL、图片等文件",
+          "describe":"免费，简单，强大，PDF文件转换成word,PPT,EXCEL,图片等文件",
           "img":"https://xpdf.net/favicon.ico"
         },
         {
@@ -186,10 +186,16 @@
       "name":"其他",
       "list":[
         {
-          "title":"小森平的免费下载音效",
+          "title":"手工客",
+          "url":"http://www.shougongke.com/",
+          "describe":"闲下来想做手工可教程难寻，不妨点开参考一番",
+          "img":"http://imgs.shougongke.com/Public/index/images/common/logo.png"
+        },
+        {
+          "title":"小森平免费音效",
           "url":"https://taira-komori.jpn.org/freesoundcn.html",
           "describe":"免费音效可用于你想用的项目，如电影、短片、游戏等",
-          "img":"https://www.moage.cn/static/web/imgs/apple-touch-icon.png"
+          "img":"https://taira-komori.jpn.org/favicon002000.ico"
         },
         {
           "title":"美寄词云",
