@@ -11,10 +11,22 @@
           "img":"https://www.kaolamedia.com/favicon.ico"
         },
         {
+          "title":"seeseed",
+          "url":"https://www.seeseed.com/",
+          "describe":"设计师的必备,汇聚了几百个网站",
+          "img":"https://www.seeseed.com/favicon.png"
+        },
+        {
           "title":"阿猫阿狗导航",
           "url":"https://dh.woshipm.com/",
           "describe":"产品汪，运营喵必备",
           "img":"https://dh.woshipm.com/images/logo.png"
+        },
+        {
+          "title":"addog",
+          "url":"https://www.addog.vip/",
+          "describe":"广告人的网址导航，广告创意/市场营销/公关策划工具大全",
+          "img":"http://cdn.adguider.com/resource/images/img_addog_logo.png"
         },
         {
           "title":"Goobe",
@@ -238,6 +250,24 @@
           "url":"https://bz.zzzmh.cn/",
           "describe":"壁纸质量挺高，电脑壁纸",
           "img":"https://bz.zzzmh.cn/favicon.ico"
+        },
+        {
+          "title":"火萤",
+          "url":"https://www.huoying666.com/",
+          "describe":"重新定义桌面",
+          "img":"https://www.huoying666.com/img_new/favicon.ico"
+        },
+        {
+          "title":"太鼓达人",
+          "url":"https://taiko.bui.pm/",
+          "describe":"摸鱼神器...",
+          "img":"https://taiko.uk/taiko/assets-201109-p3/img/favicon.png"
+        },
+        {
+          "title":"奇怪的上班蹦迪网站",
+          "url":"https://aidn.jp/mikutap/",
+          "describe":"摸鱼时，最怕空气突然安静……",
+          "img":"https://aidn.jp/mikutap/icon.png"
         },
         {
           "title":"程序员装B神器",
