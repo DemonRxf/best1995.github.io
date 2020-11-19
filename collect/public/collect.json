@@ -172,6 +172,12 @@
           "img":"https://background.cowtransfer.com/ms-icon-144x144.png"
         },
         {
+          "title":"后羿采集器",
+          "url":"http://www.houyicaiji.com/",
+          "describe":"适用对象：需要扒取一些简单数据但又不会爬虫的同学",
+          "img":"http://www.houyicaiji.com/wp-content/themes/twentyseventeen/assets/images/favicon.ico"
+        },
+        {
           "title":"Fosshub",
           "url":"https://www.fosshub.com/",
           "describe":"提供免费开源软件的网站，没有恶意软件，没有捆绑",
