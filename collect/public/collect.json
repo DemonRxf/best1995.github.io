@@ -29,6 +29,12 @@
           "img":"http://cdn.adguider.com/resource/images/img_addog_logo.png"
         },
         {
+          "title":"github",
+          "url":"https://github.com/",
+          "describe":"程序猿/程序媛都懂...",
+          "img":"https://github.githubassets.com/images/modules/site/events/universe-2020.png"
+        },
+        {
           "title":"Goobe",
           "url":"https://goobe.io/",
           "describe":"为程序员服务的互联网搜索网站，界面简洁，搜索结果准确清晰",
@@ -45,6 +51,12 @@
           "url":"https://www.toolfk.com/",
           "describe":"Toolfk在线工具箱是一款程序员工具箱，包含几十个实用的工具",
           "img":"https://www.toolfk.com//tools/images/icon.png"
+        },
+        {
+          "title":"龙轩导航",
+          "url":"http://ilxdh.com/",
+          "describe":"做个有用的导航网站，啥都有...",
+          "img":"http://ilxdh.com/favicon.ico"
         },
         {
           "title":"库问搜索",
@@ -88,6 +100,18 @@
           "img":"http://www.ypppt.com/style/logoo.png"
         },
         {
+          "title":"懒人Excel",
+          "url":"https://www.lanrenexcel.com/",
+          "describe":"教程通俗易懂，可以让你高效学习各种Excel知识",
+          "img":"https://www.lanrenexcel.com/wp-content/uploads/icon.png"
+        },
+        {
+          "title":"100font",
+          "url":"https://www.100font.com/",
+          "describe":"收集整理免费商用字体的实用网站，收集整理的字体支持免费下载",
+          "img":"https://www.100font.com/view/img/favicon.ico"
+        },
+        {
           "title":"pngimg",
           "url":"http://pngimg.com/",
           "describe":"免抠PNG图片网站，收藏了近8W的免抠素材，直接下载就可以使用",
@@ -128,6 +152,18 @@
           "url":"http://datav.aliyun.com/tools/atlas/",
           "describe":"以下载到各省，各市，各县的svg格式的地图素材，可以单独更改颜色和轮廓",
           "img":"http://datav.aliyun.com/tools/atlas/imgs/logo.png"
+        },
+        {
+          "title":"极简简历",
+          "url":"https://www.polebrief.com/index",
+          "describe":"免费的网站给我们提供的就是实用简洁型的简历模板",
+          "img":"https://reaima.gitee.io/image/icon/brand_grey.png"
+        },
+        {
+          "title":"视频鱼",
+          "url":"http://www.shipinyu.com/",
+          "describe":"视频下载、将视频地址复制到搜索栏，支持国内外83个站点",
+          "img":"http://www.shipinyu.com/img/logo_350.png"
         },
         {
           "title":"奶牛快传",
@@ -180,6 +216,12 @@
           "url":"https://www.asklib.com/",
           "describe":"适合需要考证的小伙伴，进行资格证考试测评，进行试题问答查看参考答案",
           "img":"https://assets.asklib.com/asset/pc/images/logo_w.svg"
+        },
+        {
+          "title":"iData",
+          "url":"https://www.cn-ki.net/",
+          "describe":"仿知网，可以实现同知网一样的功能，论文的检索，论文文献免费下载",
+          "img":"https://www.cn-ki.net/static/idata_logo.png"
         }
       ]
     },
@@ -208,6 +250,12 @@
           "url":"https://taira-komori.jpn.org/freesoundcn.html",
           "describe":"免费音效可用于你想用的项目，如电影、短片、游戏等",
           "img":"https://taira-komori.jpn.org/favicon002000.ico"
+        },
+        {
+          "title":"Pixiv插画",
+          "url":"https://pixivic.com/?VNK=6a4a7a0a",
+          "describe":"提供Pixiv插画排行榜的浏览与下载，二次元插画,ACG,动漫图包",
+          "img":"https://pixivic.com/img/icon.9a42bbfa.svg"
         },
         {
           "title":"美寄词云",
