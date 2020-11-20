@@ -34,7 +34,14 @@
           "img":"http://cdn.adguider.com/resource/images/img_addog_logo.png"
         },
         {
-          "tag":"程序",
+          "tag":"码农",
+          "title":"zdzn",
+          "url":"https://www.zdzn.net/index.html",
+          "describe":"专业的程序员导航，技术导航",
+          "img":"https://www.zdzn.net/assets/img/logo.ico"
+        },
+        {
+          "tag":"",
           "title":"github",
           "url":"https://github.com/",
           "describe":"程序猿/程序媛都懂...",
