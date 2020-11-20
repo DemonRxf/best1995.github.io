@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="footer">
-      <span>只是单纯的收集，方便自己使用，如果感觉不错可以收藏哈，不定点更新，基本都是免费无需注册的</span>
+      <span>只是单纯的收集，方便自己使用，如果感觉不错可以收藏哈，不定时更新，基本都是免费无需注册的，有推荐的网站可加QQ交流：384277895</span>
     </div>
     <div class="con">
       <router-view/>
